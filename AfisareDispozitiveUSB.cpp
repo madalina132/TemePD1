@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
-/*
+
 int main() {
     FILE* fp;
     char buffer[256];
@@ -25,4 +25,4 @@ int main() {
     printf("\nApasati Enter pentru a inchide...");
     getchar();
     return 0;
-}*/
+}
